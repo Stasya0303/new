@@ -1,0 +1,18 @@
+body {
+background-color:#000;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+margin: 0;
+}
+p {
+font-family: "Oswald"; sans-serif;
+font-size: 80px;
+text-align: center;
+color: #6499E9;
+text-shadow: 10px 10px 30px #8576FF, -10px -10px 30px #7BC9FF;
+-webkit-text-stroke: 3px #5555ff;
+-webkit-text-fill-color: transparent;
+letter-spacing: 15px;
+}
